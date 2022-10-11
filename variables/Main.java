@@ -3,7 +3,7 @@ package variables;
 public class Main {
 	public static void main(String[] args) {
 		int ogrenciSayisi = 12;
-		String mesaj = "Öðrenci Sayým = ";
+		String mesaj = "Ã–ÄŸrenci Sayim = ";
 		System.out.println(mesaj + ogrenciSayisi);
 	}
 }
